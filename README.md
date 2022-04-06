@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Akash
-- 👀 I’m interested in Data scirnce
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Someone with experince in Data Science
 - 📫 How to reach me @akashkhekra@gmail.com
 
 <!---
